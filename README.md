@@ -1,3 +1,3 @@
-I'm going to make first website "completely by myself". It's going to be a recipe website with homepage and few recipe pages.
+This is my first independent project. It's a recipe website with homepage and few recipe pages. This project's job was to test my recently learned HMTL skills.
 
 # odin-recipes
